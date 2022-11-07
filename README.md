@@ -23,22 +23,22 @@ Using Pandas libraries, the Jupyter Notebook, and Matplotlib, a variety of visua
 
 ##Results
 
-![Summary DataFrame]()
+![Summary DataFrame](https://github.com/doliver231/PyBer_Analysis/blob/main/analysis/summary_dataframe.png)
 
 It is clear that urban cities tend to have the most rides and drivers with the cheapest fares per ride and per driver. Suburban cities fall second with higher fares per rides and per driver, but with much less total rides and drivers. Rural cities, which are known to have lower population sizes compared to urban and surburban, are showing the highest average fares per ride and per driver. 
 
-![Total Fare by City Type - Multiline Chart]()
+![Total Fare by City Type - Multiline Chart](https://github.com/doliver231/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 Rural cities showed a consistent trend of fares amounts in the time range of January to end of April. Beginning at $187.92 and ending at $191.85, there were few fluctuationsm with notable peaks at the end of Feburary and beginning of April. Both urban and suburban cities displayed similar spiked peaks around the end of February , just like rural cities. Suburban cities fluctuated the most within these four months, starting at $721.60 at the beginning of the year and ending at $1169.04. Urban cities remained with the highest fares in this time period, fluctuating the most in the month of March.
 
-![Bubble Chart]()
+![Bubble Chart](https://github.com/doliver231/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
 There is a negative correlation between the average fares and the total number of rides taken. As we noted earlier in the summary DataFrame, the higher the average fare, the less total number of rides per city. Rural cities tend to showcase the highest average fares and the least number of rides. Urban cities, with higher populations as depicted with the bubble sizes, have the most number of rides and the cheapest average fares. 
 
-![Box and Whisker]()
-![% Total Fares - Pie Chart]()
-![% Total Rides - Pie Chart]()
-![% Total Drivers - Pie Chart]()
+![Box and Whisker](https://github.com/doliver231/PyBer_Analysis/blob/main/analysis/Fig2.png)
+![% Total Fares - Pie Chart](https://github.com/doliver231/PyBer_Analysis/blob/main/analysis/Fig5.png)
+![% Total Rides - Pie Chart](https://github.com/doliver231/PyBer_Analysis/blob/main/analysis/Fig6.png)
+![% Total Drivers - Pie Chart](https://github.com/doliver231/PyBer_Analysis/blob/main/analysis/Fig7.png)
 
 When we compare each city type against percentage of total fares, total rides, and total drivers, Urban cities always have the majority of the percentage, as we can see in the pie charts. Suburban cities show the second majority, and rural cities all show less than 10% of every total category.
 
