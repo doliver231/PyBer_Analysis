@@ -21,7 +21,7 @@ Using Pandas libraries, the Jupyter Notebook, and Matplotlib, a variety of visua
     -The percent of total drivers.
 -Create a multiple-line graph that shows the total weekly fares for each city type
 
-##Results
+## Results
 
 ![Summary DataFrame](https://github.com/doliver231/PyBer_Analysis/blob/main/analysis/summary_dataframe.png)
 
